@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 4
 4
 4
@@ -6,6 +5,3 @@
 4
 4
 4
-=======
-4
->>>>>>> parent of d4f72be (Update four.txt)
